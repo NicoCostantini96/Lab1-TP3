@@ -1,3 +1,24 @@
+# === Compilados y salidas de Maven ===
+target/
+
+# === Archivos de NetBeans, Eclipse, IntelliJ, VSCode ===
+nbproject/
+nbproject/private/
+*.iml
+.idea/
+.vscode/
+
+# === Archivos del sistema operativo ===
+.DS_Store
+Thumbs.db
+
+# === Archivos temporales ===
+*.log
+*.bak
+*.tmp
+*.swp
+*~
+
 # Compiled class file
 *.class
 
